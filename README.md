@@ -1,6 +1,6 @@
 # Tesla Deliveries Dashboard
 
-A case study analyzing Tesla (NASDAQ: TSLA) vehicle deliveries, written for **Alpha Kappa Psi's Fall 2026 Rush — Case Study #2: Business Analytics & AI**. The assignment asks three tiers of questions — data-fundamentals, applied analysis, and strategy — and this project answers all of them twice, using the same dataset: once in **Python (pandas + matplotlib)**, once in **Excel (formulas + native charts)**.
+A case study analyzing Tesla (NASDAQ: TSLA) vehicle deliveries — a business analytics & AI exercise built around three tiers of questions: data-fundamentals, applied analysis, and strategy. This project answers all of them twice, using the same dataset: once in **Python (pandas + matplotlib)**, once in **Excel (formulas + native charts)**.
 
 Both versions are written to be **followed line-by-line, not just read** — plain `groupby`s and `.corr()` in Python, plain `SUM`/`AVERAGE`/`SUMIF`/`VLOOKUP`/`CORREL` in Excel, no regression models, no custom styling, no nested tiering logic. The goal was to make every step legible enough that someone newer to data analysis could open either file and understand *why* each line is there, not just *what* it outputs.
 
